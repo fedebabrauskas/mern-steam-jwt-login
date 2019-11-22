@@ -8,7 +8,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.3.0",
-    "mongoose": "^5.3.6",
+    "mongoose": "^5.7.5",
     "passport": "^0.4.0",
     "passport-steam": "^1.0.10"
   },
